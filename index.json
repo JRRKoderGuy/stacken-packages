@@ -14,4 +14,6 @@
 
 
   ,{"name":"snappy","version":"8.3.3","channel":"stable","publisher":"stacken","url":"https://github.com/JRRKoderGuy/stacken-packages/releases/download/snappy-8.3.3/snappy-8.3.3.zip"}
+
+  ,{"name":"onigdpd","version":"1.0.0","channel":"stable","publisher":"stacken","url":"https://github.com/JRRKoderGuy/stacken-packages/releases/download/onigdpd-1.0.0/onigdpd-1.0.0.zip"}
 ]
