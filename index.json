@@ -26,5 +26,12 @@
     "channel": "stable",
     "publisher": "stacken",
     "url": "https://github.com/JRRKoderGuy/stacken-packages/releases/download/onigdpd-1.0.0/onigdpd-1.0.0.zip"
+  },
+  {
+    "name": "readline",
+    "version": "8.3.3",
+    "channel": "stable",
+    "publisher": "stacken",
+    "url": "https://github.com/JRRKoderGuy/stacken-packages/releases/download/readline-8.3.3/readline-8.3.3.zip"
   }
 ]
